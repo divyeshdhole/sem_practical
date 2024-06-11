@@ -1,1 +1,1 @@
-# SE-Lab-Practical
+# This is sem Practicak repository

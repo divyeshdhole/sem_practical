@@ -1,1 +1,1 @@
-# This is sem Practicak repository
+# This is sem Practical repository
